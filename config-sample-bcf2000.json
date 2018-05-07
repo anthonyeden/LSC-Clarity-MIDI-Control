@@ -1,0 +1,131 @@
+{
+    "midi_port": "BCF2000 Port 1",
+    "osc_clarity_ip": "127.0.0.1",
+    "osc_clarity_port": 7001,
+    "control_map": [
+        {
+            "midi_controller": 81,
+            "cuename": "Cue1",
+            "type": "fader"
+        },
+        {
+            "midi_controller": 65,
+            "cuename": "Cue1",
+            "type": "go"
+        },
+        {
+            "midi_controller": 73,
+            "cuename": "Cue1",
+            "type": "release"
+        },
+        {
+            "midi_controller": 82,
+            "cuename": "Cue2",
+            "type": "fader"
+        },
+        {
+            "midi_controller": 66,
+            "cuename": "Cue2",
+            "type": "go"
+        },
+        {
+            "midi_controller": 74,
+            "cuename": "Cue2",
+            "type": "release"
+        },
+        {
+            "midi_controller": 83,
+            "cuename": "Cue3",
+            "type": "fader"
+        },
+        {
+            "midi_controller": 67,
+            "cuename": "Cue3",
+            "type": "go"
+        },
+        {
+            "midi_controller": 75,
+            "cuename": "Cue3",
+            "type": "release"
+        },
+        {
+            "midi_controller": 84,
+            "cuename": "Cue4",
+            "type": "fader"
+        },
+        {
+            "midi_controller": 68,
+            "cuename": "Cue4",
+            "type": "go"
+        },
+        {
+            "midi_controller": 76,
+            "cuename": "Cue4",
+            "type": "release"
+        },
+        {
+            "midi_controller": 85,
+            "cuename": "Cue5",
+            "type": "fader"
+        },
+        {
+            "midi_controller": 69,
+            "cuename": "Cue5",
+            "type": "go"
+        },
+        {
+            "midi_controller": 77,
+            "cuename": "Cue5",
+            "type": "release"
+        },
+        {
+            "midi_controller": 86,
+            "cuename": "Cue6",
+            "type": "fader"
+        },
+        {
+            "midi_controller": 70,
+            "cuename": "Cue6",
+            "type": "go"
+        },
+        {
+            "midi_controller": 78,
+            "cuename": "Cue6",
+            "type": "release"
+        },
+        {
+            "midi_controller": 87,
+            "cuename": "Cue7",
+            "type": "fader"
+        },
+        {
+            "midi_controller": 71,
+            "cuename": "Cue7",
+            "type": "go"
+        },
+        {
+            "midi_controller": 79,
+            "cuename": "Cue7",
+            "type": "release"
+        },
+        {
+            "midi_controller": 88,
+            "cuename": "Cue8",
+            "type": "fader"
+        },
+        {
+            "midi_controller": 72,
+            "cuename": "Cue8",
+            "type": "go"
+        },
+        {
+            "midi_controller": 80,
+            "cuename": "Cue8",
+            "type": "release"
+        },
+        {
+            "midi_controller": 1,
+            "type": "grandmaster"
+        }
+    ]
+}
