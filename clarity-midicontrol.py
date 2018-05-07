@@ -84,7 +84,7 @@ if __name__ == "__main__":
                     command = '/cuelist/release'
                     value = fader['cuename']
 
-                elif fader['type'] == "grandmaster":
+                elif fader['midi_controller'] == m.getControllerNumber() and fader['type'] == "grandmaster":
                     # Grand master fader
                     command = '/setgrandmaster'
                     value = round(m.getControllerValue() / 127, 3)
